@@ -1,1 +1,5 @@
 taller en clase
+
+trabajo de git 
+
+permite realizar versionamientos de proyectos
